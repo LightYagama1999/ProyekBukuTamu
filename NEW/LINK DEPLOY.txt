@@ -2,3 +2,7 @@ https://script.google.com/macros/s/AKfycby5RGeaWAqnSKgFiaXnJuObRYyL_lFAq3cs-fX35
 
 
 https://script.google.com/macros/s/AKfycby5RGeaWAqnSKgFiaXnJuObRYyL_lFAq3cs-fX354QzbjfyX_NZEWq64bs3673wKVGz/exec?Card=1&Company=PPN
+
+
+untuk mengubah data nya ubah di belakang exec?
+contoh : Card=1&Company=PPN Ubah menjadi Card=21&Company=IKN ( Card dan Company nya jangan di ubah karena di kode Javascript menggunakan ID tersebut )
